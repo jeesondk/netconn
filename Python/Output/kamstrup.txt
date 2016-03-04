@@ -1,0 +1,88 @@
+
+
+Start
+
+
+Start
+Wr	 80  3f  10  01  00  01  55  a1  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  00  02  65  c2  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  00  1b  f2  94  2d  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  00  0e  a4  4e  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  1e  7a  bb  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  1f  6a  9a  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  20  ad  26  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  34  ff  93  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  35  ef  b2  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  36  df  d1  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  38  3e  1f  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  39  2e  3e  0d 
+Msg	Rx Timeout
+Wr	 80  3f  10  01  04  3a  1e  5d  0d 
+Msg	Rx Timeout
+
+Start
+Wr	 80  3f  10  01  00  01  55  a1  0d 
+Rd	 40  3f  10  00  01  02  04  42  00  01  1f  fd  8e  57  0d 
+Wr	 80  3f  10  01  00  02  65  c2  0d 
+Rd	 40  3f  10  00  02  02  04  42  00  00  00  00  5c  ed  0d 
+Wr	 80  3f  10  01  00  1b  f2  94  2d  0d 
+Rd	 40  3f  10  00  1b  f2  02  04  44  00  70  7f  22  8c  e5  0d 
+Wr	 80  3f  10  01  00  0e  a4  4e  0d 
+Rd	 40  3f  10  00  0e  02  04  44  00  00  00  00  1b  7f  df  0d 
+Wr	 80  3f  10  01  04  1e  7a  bb  0d 
+Rd	 40  3f  10  04  1e  21  02  00  00  e3  88  c3  0d 
+Wr	 80  3f  10  01  04  1f  6a  9a  0d 
+Rd	 40  3f  10  04  1f  21  02  00  00  e1  ed  21  0d 
+Wr	 80  3f  10  01  04  20  ad  26  0d 
+Rd	 40  3f  10  04  20  21  02  00  00  e4  57  0b  0d 
+Wr	 80  3f  10  01  04  34  ff  93  0d 
+Rd	 40  3f  10  04  34  22  04  42  00  00  00  1b  e4  cb  b9  0d 
+Wr	 80  3f  10  01  04  35  ef  b2  0d 
+Rd	 40  3f  10  04  35  22  04  42  00  00  00  20  0b  52  0d 
+Wr	 80  3f  10  01  04  36  df  d1  0d 
+Rd	 40  3f  10  04  36  22  04  42  00  00  00  84  36  49  0d 
+Wr	 80  3f  10  01  04  38  3e  1f  0d 
+Rd	 40  3f  10  04  38  16  04  43  00  00  00  2b  de  47  0d 
+Wr	 80  3f  10  01  04  39  2e  3e  0d 
+Rd	 40  3f  10  04  39  16  04  43  00  00  00  49  d5  70  0d 
+Wr	 80  3f  10  01  04  3a  1e  5d  0d 
+Rd	 40  3f  10  04  3a  16  04  43  00  00  00  d3  3f  f6  0d 
+
+Start
+Wr	 80  3f  10  01  00  01  55  a1  0d 
+Rd	 40  3f  10  00  01  02  04  42  00  01  1f  fd  8e  57  0d 
+Wr	 80  3f  10  01  00  02  65  c2  0d 
+Rd	 40  3f  10  00  02  02  04  42  00  00  00  00  5c  ed  0d 
+Wr	 80  3f  10  01  00  1b  f2  94  2d  0d 
+Rd	 40  3f  10  00  1b  f2  02  04  44  00  70  7f  28  2d  af  0d 
+Wr	 80  3f  10  01  00  0e  a4  4e  0d 
+Rd	 40  3f  10  00  0e  02  04  44  00  00  00  00  1b  7f  df  0d 
+Wr	 80  3f  10  01  04  1e  7a  bb  0d 
+Rd	 40  3f  10  04  1e  21  02  00  00  e3  88  c3  0d 
+Wr	 80  3f  10  01  04  1f  6a  9a  0d 
+Rd	 40  3f  10  04  1f  21  02  00  00  e0  fd  00  0d 
+Wr	 80  3f  10  01  04  20  ad  26  0d 
+Rd	 40  3f  10  04  20  21  02  00  00  e4  57  0b  0d 
+Wr	 80  3f  10  01  04  34  ff  93  0d 
+Rd	 40  3f  10  04  34  22  04  42  00  00  00  1b  e4  cb  b9  0d 
+Wr	 80  3f  10  01  04  35  ef  b2  0d 
+Rd	 40  3f  10  04  35  22  04  42  00  00  00  20  0b  52  0d 
+Wr	 80  3f  10  01  04  36  df  d1  0d 
+Rd	 40  3f  10  04  36  22  04  42  00  00  00  88  f7  c5  0d 
+Wr	 80  3f  10  01  04  38  3e  1f  0d 
+Rd	 40  3f  10  04  38  16  04  43  00  00  00  2b  de  47  0d 
+Wr	 80  3f  10  01  04  39  2e  3e  0d 
+Rd	 40  3f  10  04  39  16  04  43  00  00  00  49  d5  70  0d 
+Wr	 80  3f  10  01  04  3a  1e  5d  0d 
+Rd	 40  3f  10  04  3a  16  04  43  00  00  00  da  ae  df  0d 
